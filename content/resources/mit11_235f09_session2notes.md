@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 70042dd0-e28d-8bfe-9b92-c68291501828
 resourcetype: Document
 title: Professors notes on the readings for Session 2
 uid: ac852672-8857-7440-39e8-c4ba1b1aaabb

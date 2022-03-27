@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8285419f-f85c-1acf-9bf5-755eca8f14fe
 resourcetype: Document
 title: 'Assignment 1: Internal Conversations'
 uid: 83861967-c3ec-c7db-9cec-29894f5e8b62
