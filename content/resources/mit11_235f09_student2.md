@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of student work for the first assignment of the course.
-file: /media/courses/11-235-analyzing-projects-and-organizations-fall-2009/83861967c3ecc7db9cec29894f5e8b62_MIT11_235F09_student2.pdf
+file: /courses/11-235-analyzing-projects-and-organizations-fall-2009/83861967c3ecc7db9cec29894f5e8b62_MIT11_235F09_student2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: 'Assignment 1: Internal Conversations'
 uid: 83861967-c3ec-c7db-9cec-29894f5e8b62
 ---
+Example of student work for the first assignment of the course.
+

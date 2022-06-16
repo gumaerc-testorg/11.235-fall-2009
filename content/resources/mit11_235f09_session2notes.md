@@ -2,7 +2,7 @@
 content_type: resource
 description: Professors notes on the readings for the second lecture session of the
   course.
-file: /media/courses/11-235-analyzing-projects-and-organizations-fall-2009/ac8526728857744039e8c4ba1b1aaabb_MIT11_235F09_Session2notes.pdf
+file: /courses/11-235-analyzing-projects-and-organizations-fall-2009/ac8526728857744039e8c4ba1b1aaabb_MIT11_235F09_Session2notes.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
@@ -14,3 +14,5 @@ resourcetype: Document
 title: Professors notes on the readings for Session 2
 uid: ac852672-8857-7440-39e8-c4ba1b1aaabb
 ---
+Professors notes on the readings for the second lecture session of the course.
+
