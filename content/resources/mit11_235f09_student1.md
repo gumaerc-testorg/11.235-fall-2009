@@ -5,6 +5,7 @@ file: /courses/11-235-analyzing-projects-and-organizations-fall-2009/f37c495c8e6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'On Methods: Challenges in Constructing Heuristic Models'
 uid: f37c495c-8e68-6176-d485-b3fe44faba52
 ---
 Example of student work for the first assignment of the course.
-

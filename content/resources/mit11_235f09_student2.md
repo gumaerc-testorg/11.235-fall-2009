@@ -5,6 +5,7 @@ file: /courses/11-235-analyzing-projects-and-organizations-fall-2009/83861967c3e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Assignment 1: Internal Conversations'
 uid: 83861967-c3ec-c7db-9cec-29894f5e8b62
 ---
 Example of student work for the first assignment of the course.
-

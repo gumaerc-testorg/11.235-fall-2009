@@ -6,6 +6,7 @@ file: /courses/11-235-analyzing-projects-and-organizations-fall-2009/fe1ac00dbaf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Assignment 1
 uid: fe1ac00d-baf6-422a-fcc2-0bbcc04ba244
 ---
 Instructions for a writing assignment on the readings for the first seven sessions of the course.
-

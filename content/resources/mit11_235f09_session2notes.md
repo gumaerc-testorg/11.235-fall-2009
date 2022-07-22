@@ -6,6 +6,7 @@ file: /courses/11-235-analyzing-projects-and-organizations-fall-2009/ac852672885
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Professors notes on the readings for Session 2
 uid: ac852672-8857-7440-39e8-c4ba1b1aaabb
 ---
 Professors notes on the readings for the second lecture session of the course.
-

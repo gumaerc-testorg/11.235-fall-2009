@@ -6,6 +6,7 @@ file: /courses/11-235-analyzing-projects-and-organizations-fall-2009/b36f5d6feaa
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Professors notes on the readings for Session 3
 uid: b36f5d6f-eaaa-f52c-bff3-d9ce58edc611
 ---
 Professors notes on the readings for the third lecture session of the course.
-
