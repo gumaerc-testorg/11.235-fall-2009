@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for the final oral presentation project of the course.
-file: /ol-ocw-studio-app/courses/11-235-analyzing-projects-and-organizations-fall-2009/8e04cb8ec9b0f798cebd1e8c252286e3_MIT11_235F09_final_assign.pdf
+file: /courses/11-235-analyzing-projects-and-organizations-fall-2009/8e04cb8ec9b0f798cebd1e8c252286e3_MIT11_235F09_final_assign.pdf
 file_size: 35437
 file_type: application/pdf
 learning_resource_types:
