@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of student work for the first assignment of the course.
-file: /courses/11-235-analyzing-projects-and-organizations-fall-2009/83861967c3ecc7db9cec29894f5e8b62_MIT11_235F09_student2.pdf
+file: /ol-ocw-studio-app/courses/11-235-analyzing-projects-and-organizations-fall-2009/83861967c3ecc7db9cec29894f5e8b62_MIT11_235F09_student2.pdf
 file_size: 72556
 file_type: application/pdf
 learning_resource_types:
